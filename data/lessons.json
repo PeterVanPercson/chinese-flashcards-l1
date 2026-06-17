@@ -1,0 +1,724 @@
+{
+  "meta": {
+    "title": "Ten-Level Chinese — Integrated Textbook (Level 1)",
+    "level": 1,
+    "source": "拾级汉语 综合课本 第1级 · BLCU Press (companion study app)",
+    "vocab_total": 29,
+    "sentence_total": 18,
+    "character_total": 20
+  },
+  "lessons": [
+    {
+      "id": 1,
+      "title_zh": "您贵姓？",
+      "title_pinyin": "Nín guìxìng?",
+      "title_en": "May I know your surname?",
+      "characters": [
+        "您",
+        "们",
+        "老",
+        "师",
+        "贵",
+        "姓",
+        "叫",
+        "什",
+        "么",
+        "名",
+        "字",
+        "是",
+        "国",
+        "学",
+        "习",
+        "汉",
+        "语",
+        "都",
+        "吗",
+        "呢"
+      ],
+      "char_pinyin": {
+        "您": "nín",
+        "们": "men",
+        "老": "lǎo",
+        "师": "shī",
+        "贵": "guì",
+        "姓": "xìng",
+        "叫": "jiào",
+        "什": "shén",
+        "么": "me",
+        "名": "míng",
+        "字": "zì",
+        "是": "shì",
+        "国": "guó",
+        "学": "xué",
+        "习": "xí",
+        "汉": "hàn",
+        "语": "yǔ",
+        "都": "dōu",
+        "吗": "ma",
+        "呢": "ne"
+      },
+      "char_gloss": {
+        "您": "you (polite / honorific)",
+        "们": "(plural marker for people)",
+        "老": "old; (respectful prefix)",
+        "师": "teacher; master",
+        "贵": "honourable; expensive",
+        "姓": "surname; to be surnamed",
+        "叫": "to call; to be called",
+        "什": "what (in 什么)",
+        "么": "(interrogative suffix, in 什么)",
+        "名": "name; fame",
+        "字": "character; word",
+        "是": "to be; yes, correct",
+        "国": "country, nation",
+        "学": "to learn, to study",
+        "习": "to practise; habit",
+        "汉": "Han (Chinese)",
+        "语": "language; speech",
+        "都": "all (adverb of totality; goes before the verb)",
+        "吗": "(yes/no question particle)",
+        "呢": "(follow-up question particle)"
+      },
+      "char_compounds": {
+        "您": [],
+        "们": [],
+        "老": [
+          {
+            "word": "老师",
+            "pinyin": "lǎoshī",
+            "english": "teacher"
+          }
+        ],
+        "师": [
+          {
+            "word": "老师",
+            "pinyin": "lǎoshī",
+            "english": "teacher"
+          }
+        ],
+        "贵": [
+          {
+            "word": "贵姓",
+            "pinyin": "guìxìng",
+            "english": "(honorific) what is your surname? (used in 您贵姓?)"
+          }
+        ],
+        "姓": [
+          {
+            "word": "贵姓",
+            "pinyin": "guìxìng",
+            "english": "(honorific) what is your surname? (used in 您贵姓?)"
+          }
+        ],
+        "叫": [],
+        "什": [
+          {
+            "word": "什么",
+            "pinyin": "shénme",
+            "english": "what"
+          }
+        ],
+        "么": [
+          {
+            "word": "什么",
+            "pinyin": "shénme",
+            "english": "what"
+          }
+        ],
+        "名": [
+          {
+            "word": "名字",
+            "pinyin": "míngzi",
+            "english": "name"
+          }
+        ],
+        "字": [
+          {
+            "word": "名字",
+            "pinyin": "míngzi",
+            "english": "name"
+          }
+        ],
+        "是": [],
+        "国": [
+          {
+            "word": "哪国人",
+            "pinyin": "nǎ guó rén",
+            "english": "what nationality (lit. which-country person)"
+          },
+          {
+            "word": "英国",
+            "pinyin": "Yīngguó",
+            "english": "the U.K. (proper name)"
+          },
+          {
+            "word": "法国",
+            "pinyin": "Fǎguó",
+            "english": "France (proper name)"
+          }
+        ],
+        "学": [
+          {
+            "word": "学习",
+            "pinyin": "xuéxí",
+            "english": "to learn, to study"
+          }
+        ],
+        "习": [
+          {
+            "word": "学习",
+            "pinyin": "xuéxí",
+            "english": "to learn, to study"
+          }
+        ],
+        "汉": [
+          {
+            "word": "汉语",
+            "pinyin": "Hànyǔ",
+            "english": "Chinese (language)"
+          }
+        ],
+        "语": [
+          {
+            "word": "汉语",
+            "pinyin": "Hànyǔ",
+            "english": "Chinese (language)"
+          },
+          {
+            "word": "英语",
+            "pinyin": "Yīngyǔ",
+            "english": "English (language)"
+          },
+          {
+            "word": "法语",
+            "pinyin": "Fǎyǔ",
+            "english": "French (language)"
+          }
+        ],
+        "都": [],
+        "吗": [],
+        "呢": []
+      },
+      "char_examples": {
+        "您": [
+          {
+            "sentence": "您贵姓？",
+            "pinyin": "Nín guìxìng?",
+            "english": "May I ask your surname?"
+          },
+          {
+            "sentence": "您是老师吗？",
+            "pinyin": "Nín shì lǎoshī ma?",
+            "english": "Are you a teacher?"
+          }
+        ],
+        "们": [
+          {
+            "sentence": "我们都学习汉语。",
+            "pinyin": "Wǒmen dōu xuéxí Hànyǔ.",
+            "english": "We all study Chinese."
+          },
+          {
+            "sentence": "他们都是英国人。",
+            "pinyin": "Tāmen dōu shì Yīngguó rén.",
+            "english": "They are all British."
+          }
+        ],
+        "老": [
+          {
+            "sentence": "老师好！",
+            "pinyin": "Lǎoshī hǎo!",
+            "english": "Hello, teacher!"
+          },
+          {
+            "sentence": "您是老师吗？",
+            "pinyin": "Nín shì lǎoshī ma?",
+            "english": "Are you a teacher?"
+          }
+        ],
+        "师": [
+          {
+            "sentence": "老师好！",
+            "pinyin": "Lǎoshī hǎo!",
+            "english": "Hello, teacher!"
+          },
+          {
+            "sentence": "您是老师吗？",
+            "pinyin": "Nín shì lǎoshī ma?",
+            "english": "Are you a teacher?"
+          }
+        ],
+        "贵": [
+          {
+            "sentence": "您贵姓？",
+            "pinyin": "Nín guìxìng?",
+            "english": "May I ask your surname?"
+          }
+        ],
+        "姓": [
+          {
+            "sentence": "您贵姓？",
+            "pinyin": "Nín guìxìng?",
+            "english": "May I ask your surname?"
+          },
+          {
+            "sentence": "我姓王。",
+            "pinyin": "Wǒ xìng Wáng.",
+            "english": "My surname is Wang."
+          }
+        ],
+        "叫": [
+          {
+            "sentence": "你叫什么名字？",
+            "pinyin": "Nǐ jiào shénme míngzi?",
+            "english": "What is your name?"
+          },
+          {
+            "sentence": "我叫大卫。",
+            "pinyin": "Wǒ jiào Dàwèi.",
+            "english": "My name is David."
+          }
+        ],
+        "什": [
+          {
+            "sentence": "你叫什么名字？",
+            "pinyin": "Nǐ jiào shénme míngzi?",
+            "english": "What is your name?"
+          },
+          {
+            "sentence": "你学习什么？",
+            "pinyin": "Nǐ xuéxí shénme?",
+            "english": "What do you study?"
+          }
+        ],
+        "么": [
+          {
+            "sentence": "你叫什么名字？",
+            "pinyin": "Nǐ jiào shénme míngzi?",
+            "english": "What is your name?"
+          },
+          {
+            "sentence": "你学习什么？",
+            "pinyin": "Nǐ xuéxí shénme?",
+            "english": "What do you study?"
+          }
+        ],
+        "名": [
+          {
+            "sentence": "你叫什么名字？",
+            "pinyin": "Nǐ jiào shénme míngzi?",
+            "english": "What is your name?"
+          }
+        ],
+        "字": [
+          {
+            "sentence": "你叫什么名字？",
+            "pinyin": "Nǐ jiào shénme míngzi?",
+            "english": "What is your name?"
+          }
+        ],
+        "是": [
+          {
+            "sentence": "你是哪国人？",
+            "pinyin": "Nǐ shì nǎ guó rén?",
+            "english": "What is your nationality?"
+          },
+          {
+            "sentence": "我是英国人。",
+            "pinyin": "Wǒ shì Yīngguó rén.",
+            "english": "I am British."
+          },
+          {
+            "sentence": "她是法国人。",
+            "pinyin": "Tā shì Fǎguó rén.",
+            "english": "She is French."
+          }
+        ],
+        "国": [
+          {
+            "sentence": "你是哪国人？",
+            "pinyin": "Nǐ shì nǎ guó rén?",
+            "english": "What is your nationality?"
+          },
+          {
+            "sentence": "我是英国人。",
+            "pinyin": "Wǒ shì Yīngguó rén.",
+            "english": "I am British."
+          },
+          {
+            "sentence": "她是法国人。",
+            "pinyin": "Tā shì Fǎguó rén.",
+            "english": "She is French."
+          }
+        ],
+        "学": [
+          {
+            "sentence": "你学习什么？",
+            "pinyin": "Nǐ xuéxí shénme?",
+            "english": "What do you study?"
+          },
+          {
+            "sentence": "我学习汉语。",
+            "pinyin": "Wǒ xuéxí Hànyǔ.",
+            "english": "I study Chinese."
+          },
+          {
+            "sentence": "他也学习汉语。",
+            "pinyin": "Tā yě xuéxí Hànyǔ.",
+            "english": "He studies Chinese too."
+          }
+        ],
+        "习": [
+          {
+            "sentence": "你学习什么？",
+            "pinyin": "Nǐ xuéxí shénme?",
+            "english": "What do you study?"
+          },
+          {
+            "sentence": "我学习汉语。",
+            "pinyin": "Wǒ xuéxí Hànyǔ.",
+            "english": "I study Chinese."
+          },
+          {
+            "sentence": "他也学习汉语。",
+            "pinyin": "Tā yě xuéxí Hànyǔ.",
+            "english": "He studies Chinese too."
+          }
+        ],
+        "汉": [
+          {
+            "sentence": "我学习汉语。",
+            "pinyin": "Wǒ xuéxí Hànyǔ.",
+            "english": "I study Chinese."
+          },
+          {
+            "sentence": "他也学习汉语。",
+            "pinyin": "Tā yě xuéxí Hànyǔ.",
+            "english": "He studies Chinese too."
+          },
+          {
+            "sentence": "我们都学习汉语。",
+            "pinyin": "Wǒmen dōu xuéxí Hànyǔ.",
+            "english": "We all study Chinese."
+          }
+        ],
+        "语": [
+          {
+            "sentence": "我学习汉语。",
+            "pinyin": "Wǒ xuéxí Hànyǔ.",
+            "english": "I study Chinese."
+          },
+          {
+            "sentence": "他也学习汉语。",
+            "pinyin": "Tā yě xuéxí Hànyǔ.",
+            "english": "He studies Chinese too."
+          },
+          {
+            "sentence": "我们都学习汉语。",
+            "pinyin": "Wǒmen dōu xuéxí Hànyǔ.",
+            "english": "We all study Chinese."
+          }
+        ],
+        "都": [
+          {
+            "sentence": "我们都学习汉语。",
+            "pinyin": "Wǒmen dōu xuéxí Hànyǔ.",
+            "english": "We all study Chinese."
+          },
+          {
+            "sentence": "他们都是英国人。",
+            "pinyin": "Tāmen dōu shì Yīngguó rén.",
+            "english": "They are all British."
+          }
+        ],
+        "吗": [
+          {
+            "sentence": "你学习英语吗？",
+            "pinyin": "Nǐ xuéxí Yīngyǔ ma?",
+            "english": "Do you study English?"
+          },
+          {
+            "sentence": "您是老师吗？",
+            "pinyin": "Nín shì lǎoshī ma?",
+            "english": "Are you a teacher?"
+          }
+        ],
+        "呢": [
+          {
+            "sentence": "我学习汉语，你呢？",
+            "pinyin": "Wǒ xuéxí Hànyǔ, nǐ ne?",
+            "english": "I study Chinese, and you?"
+          }
+        ]
+      },
+      "vocab": [
+        {
+          "chinese": "您",
+          "pinyin": "nín",
+          "pos": "Pron.",
+          "english": "you (honorific)"
+        },
+        {
+          "chinese": "你",
+          "pinyin": "nǐ",
+          "pos": "Pron.",
+          "english": "you (singular)"
+        },
+        {
+          "chinese": "我",
+          "pinyin": "wǒ",
+          "pos": "Pron.",
+          "english": "I, me"
+        },
+        {
+          "chinese": "他",
+          "pinyin": "tā",
+          "pos": "Pron.",
+          "english": "he, him"
+        },
+        {
+          "chinese": "她",
+          "pinyin": "tā",
+          "pos": "Pron.",
+          "english": "she, her"
+        },
+        {
+          "chinese": "们",
+          "pinyin": "men",
+          "pos": "Part.",
+          "english": "(plural marker: 我们 we, 你们 you, 他们 they)"
+        },
+        {
+          "chinese": "老师",
+          "pinyin": "lǎoshī",
+          "pos": "N.",
+          "english": "teacher"
+        },
+        {
+          "chinese": "贵姓",
+          "pinyin": "guìxìng",
+          "pos": "Phr.",
+          "english": "(honorific) what is your surname? (used in 您贵姓?)"
+        },
+        {
+          "chinese": "姓",
+          "pinyin": "xìng",
+          "pos": "N., V.",
+          "english": "surname; to be surnamed"
+        },
+        {
+          "chinese": "叫",
+          "pinyin": "jiào",
+          "pos": "V.",
+          "english": "to call; to be called"
+        },
+        {
+          "chinese": "什么",
+          "pinyin": "shénme",
+          "pos": "Pron.",
+          "english": "what"
+        },
+        {
+          "chinese": "名字",
+          "pinyin": "míngzi",
+          "pos": "N.",
+          "english": "name"
+        },
+        {
+          "chinese": "是",
+          "pinyin": "shì",
+          "pos": "V.",
+          "english": "to be"
+        },
+        {
+          "chinese": "哪",
+          "pinyin": "nǎ",
+          "pos": "Pron.",
+          "english": "which"
+        },
+        {
+          "chinese": "国",
+          "pinyin": "guó",
+          "pos": "N.",
+          "english": "country"
+        },
+        {
+          "chinese": "人",
+          "pinyin": "rén",
+          "pos": "N.",
+          "english": "person, people"
+        },
+        {
+          "chinese": "哪国人",
+          "pinyin": "nǎ guó rén",
+          "pos": "Phr.",
+          "english": "what nationality (lit. which-country person)"
+        },
+        {
+          "chinese": "学习",
+          "pinyin": "xuéxí",
+          "pos": "V.",
+          "english": "to learn, to study"
+        },
+        {
+          "chinese": "汉语",
+          "pinyin": "Hànyǔ",
+          "pos": "N.",
+          "english": "Chinese (language)"
+        },
+        {
+          "chinese": "英语",
+          "pinyin": "Yīngyǔ",
+          "pos": "N.",
+          "english": "English (language)"
+        },
+        {
+          "chinese": "法语",
+          "pinyin": "Fǎyǔ",
+          "pos": "N.",
+          "english": "French (language)"
+        },
+        {
+          "chinese": "好",
+          "pinyin": "hǎo",
+          "pos": "Adj.",
+          "english": "good, fine, well"
+        },
+        {
+          "chinese": "也",
+          "pinyin": "yě",
+          "pos": "Adv.",
+          "english": "also, too"
+        },
+        {
+          "chinese": "都",
+          "pinyin": "dōu",
+          "pos": "Adv.",
+          "english": "all (adverb of totality; goes before the verb)"
+        },
+        {
+          "chinese": "不",
+          "pinyin": "bù",
+          "pos": "Adv.",
+          "english": "not, no"
+        },
+        {
+          "chinese": "呢",
+          "pinyin": "ne",
+          "pos": "Part.",
+          "english": "(particle for a follow-up question)"
+        },
+        {
+          "chinese": "吗",
+          "pinyin": "ma",
+          "pos": "Part.",
+          "english": "(yes/no question particle)"
+        },
+        {
+          "chinese": "英国",
+          "pinyin": "Yīngguó",
+          "pos": "N.",
+          "english": "the U.K. (proper name)"
+        },
+        {
+          "chinese": "法国",
+          "pinyin": "Fǎguó",
+          "pos": "N.",
+          "english": "France (proper name)"
+        }
+      ],
+      "sentences": [
+        {
+          "chinese": "你好！",
+          "pinyin": "Nǐ hǎo!",
+          "english": "Hello!"
+        },
+        {
+          "chinese": "老师好！",
+          "pinyin": "Lǎoshī hǎo!",
+          "english": "Hello, teacher!"
+        },
+        {
+          "chinese": "您贵姓？",
+          "pinyin": "Nín guìxìng?",
+          "english": "May I ask your surname?"
+        },
+        {
+          "chinese": "我姓王。",
+          "pinyin": "Wǒ xìng Wáng.",
+          "english": "My surname is Wang."
+        },
+        {
+          "chinese": "你叫什么名字？",
+          "pinyin": "Nǐ jiào shénme míngzi?",
+          "english": "What is your name?"
+        },
+        {
+          "chinese": "我叫大卫。",
+          "pinyin": "Wǒ jiào Dàwèi.",
+          "english": "My name is David."
+        },
+        {
+          "chinese": "你是哪国人？",
+          "pinyin": "Nǐ shì nǎ guó rén?",
+          "english": "What is your nationality?"
+        },
+        {
+          "chinese": "我是英国人。",
+          "pinyin": "Wǒ shì Yīngguó rén.",
+          "english": "I am British."
+        },
+        {
+          "chinese": "她是法国人。",
+          "pinyin": "Tā shì Fǎguó rén.",
+          "english": "She is French."
+        },
+        {
+          "chinese": "你学习什么？",
+          "pinyin": "Nǐ xuéxí shénme?",
+          "english": "What do you study?"
+        },
+        {
+          "chinese": "我学习汉语。",
+          "pinyin": "Wǒ xuéxí Hànyǔ.",
+          "english": "I study Chinese."
+        },
+        {
+          "chinese": "他也学习汉语。",
+          "pinyin": "Tā yě xuéxí Hànyǔ.",
+          "english": "He studies Chinese too."
+        },
+        {
+          "chinese": "我们都学习汉语。",
+          "pinyin": "Wǒmen dōu xuéxí Hànyǔ.",
+          "english": "We all study Chinese."
+        },
+        {
+          "chinese": "你学习英语吗？",
+          "pinyin": "Nǐ xuéxí Yīngyǔ ma?",
+          "english": "Do you study English?"
+        },
+        {
+          "chinese": "我不学习法语。",
+          "pinyin": "Wǒ bù xuéxí Fǎyǔ.",
+          "english": "I don't study French."
+        },
+        {
+          "chinese": "我学习汉语，你呢？",
+          "pinyin": "Wǒ xuéxí Hànyǔ, nǐ ne?",
+          "english": "I study Chinese, and you?"
+        },
+        {
+          "chinese": "您是老师吗？",
+          "pinyin": "Nín shì lǎoshī ma?",
+          "english": "Are you a teacher?"
+        },
+        {
+          "chinese": "他们都是英国人。",
+          "pinyin": "Tāmen dōu shì Yīngguó rén.",
+          "english": "They are all British."
+        }
+      ]
+    }
+  ]
+}
